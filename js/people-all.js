@@ -25,4 +25,40 @@ peoplelist = {
 		"semester":"s17",
 		"team-codes": ["annette-chen", "akash-kejriwal"]
 	},
+
+	"connor-hanley": {
+		"code":"connor-hanley",
+		"name":"Connor Hanley",
+		"image":"../images/connor-hanley.jpg",
+		"project-code":"sanfranciscoDOSW",
+		"semester":"s17",
+		"team-codes": ["amber-hu", "helen-kim", "sina-siddiqi"]
+	},
+
+	"amber-hu": {
+		"code":"amber-hu",
+		"name":"Amber Hu",
+		"image":"../images/amber-hu.png",
+		"project-code":"sanfranciscoDOSW",
+		"semester":"s17",
+		"team-codes": ["connor-hanley", "helen-kim", "sina-siddiqi"]
+	},
+
+	"helen-kim": {
+		"code":"helen-kim",
+		"name":"Helen Kim",
+		"image":"../images/helen-kim.png",
+		"project-code":"sanfranciscoDOSW",
+		"semester":"s17",
+		"team-codes": ["connor-hanley", "amber-hu", "sina-siddiqi"]
+	},
+
+	"sina-siddiqi": {
+		"code":"sina-siddiqi",
+		"name":"Sina Siddiqi",
+		"image":"../images/sina-siddiqi.png",
+		"project-code":"sanfranciscoDOSW",
+		"semester":"s17",
+		"team-codes": ["connor-hanley", "amber-hu", "helen-kim"]
+	}
 }

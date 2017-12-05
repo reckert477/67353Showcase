@@ -51,7 +51,7 @@ projectlist =
         "code":"sanfranciscoDOSW",
         "name":"San Francisco Department on the Status of Women",
         "image":"images/sfdosw.png",
-        "team":["connor-hanley", "amber-hu", "helen-kim", "sina siddiqi"],
+        "team":["connor-hanley", "amber-hu", "helen-kim", "sina-siddiqi"],
         "tags":["sf", "dosw", "rights", "women", "workplace", "Herschell Larrick", "Carol Sacco"],
         "semester":"s17"
     },
